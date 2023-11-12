@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/TAMLEP-mlflow/pydataberlin-2019/mlruns/1/dfadd345c095483eb931d33d7b3acf4f/artifacts
+end_time: 1699785897812
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: dfadd345c095483eb931d33d7b3acf4f
+run_uuid: dfadd345c095483eb931d33d7b3acf4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699785890533
+status: 3
+tags: []
+user_id: ameerunix
